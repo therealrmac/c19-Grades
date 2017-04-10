@@ -1,0 +1,1 @@
+#for loops to get the total number of grades, the lowest grade, and the highest grade.
